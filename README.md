@@ -1,7 +1,7 @@
 ### Hi I'm Shaw! 👋
 
 - 🌱 Learning programming
-- 📫 E-mail: LeonoreShaw@gmail.com
+- 📫 E-mail: leonoreshaw@gmail.com
 
 </br>
 
