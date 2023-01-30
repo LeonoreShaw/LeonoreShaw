@@ -10,7 +10,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=Kotlin)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2b%2b&logoColor=00599C)
 
-### Contact me in ...
+### Contact me ...
 
 [![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Shaw0228)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/leonoreshaw)
