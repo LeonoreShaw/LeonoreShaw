@@ -1,9 +1,12 @@
-<br>
+<br/>
+
 ## Hi I'm Shaw! 👋
 
 - 🌱 Learning programming
 - 📫 leonoreshaw@gmail.com
-<br>
+
+<br/>
+
 ## Languages Interested in
 
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python)
@@ -12,7 +15,9 @@
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2b%2b&logoColor=00599C)
 
 [![Top Langs](https://github-readme-stats-leonoreshaw.vercel.app/api/top-langs/?username=LeonoreShaw)](https://github.com/LeonoreShaw/)
-<br>
+
+<br/>
+
 ## Contact me ...
 
 [![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Shaw0228)
@@ -22,6 +27,7 @@
 [![](https://img.shields.io/badge/Github-100000?style=flat&logo=github&logoColor=white)](https://github.com/leonoreshaw)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/xiangmshaw)
 
-<br>
+<br/>
+
 ## Listen on Spotify together!
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ob7ggmzhfnuasctxu7kmewalqi&width=500)
