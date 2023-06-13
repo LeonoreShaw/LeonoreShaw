@@ -19,3 +19,5 @@
 [![](https://img.shields.io/badge/Github-100000?style=flat&logo=github&logoColor=white)](https://github.com/leonoreshaw)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/xiangmshaw)
 
+### Listen on Spotify together!
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ob7ggmzhfnuasctxu7kmewalqi&width=500)
