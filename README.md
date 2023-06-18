@@ -13,7 +13,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=Kotlin)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2b%2b&logoColor=00599C)
 
-[![Top Langs](https://github-readme-stats-leonoreshaw.vercel.app/api/top-langs/?username=LeonoreShaw)](https://github.com/LeonoreShaw/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonoreShaw)](https://github.com/LeonoreShaw/)
 
 
 
