@@ -38,6 +38,6 @@
 
 ### Recent playlist:
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ob7ggmzhfnuasctxu7kmewalqi&width=500)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ob7ggmzhfnuasctxu7kmewalqi&width=500&count=10)
 
 
