@@ -30,7 +30,13 @@
 
 ## Listen on Spotify together!
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ob7ggmzhfnuasctxu7kmewalqi&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/LeonoreShaw/)
+[![spotify github profile](https://spotify-github-profile.vercel.app/api/view?uid=31ob7ggmzhfnuasctxu7kmewalqi&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/LeonoreShaw/)
+
+### Recently played one: 
+
+[![spotify Recently played one](https://s.shaw.gq/api?theme=dark)](https://github.com/LeonoreShaw/)
+
+### Recent playlist:
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ob7ggmzhfnuasctxu7kmewalqi&width=500)
 
