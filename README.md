@@ -34,7 +34,7 @@
 
 ### Recently played one: 
 
-[![spotify Recently played one](https://s.shaw.gq/api?theme=dark)](https://open.spotify.com/user/31ob7ggmzhfnuasctxu7kmewalqi)
+[![spotify Recently played one](https://s.shaw.gq/api?theme=dark&rainbow=true&scan=ture&spin=ture)](https://open.spotify.com/user/31ob7ggmzhfnuasctxu7kmewalqi)
 
 ### Recent playlist:
 
