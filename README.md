@@ -1,6 +1,8 @@
 
 ## Hi I'm Shaw! 👋
 
+Welcome to visit *[le Blog de Léonore](https://xxiao.org)*!
+
 - 🌱 Learning programming
 - 📫 leonoreshaw@gmail.com
 
