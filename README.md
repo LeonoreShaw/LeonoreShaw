@@ -15,7 +15,7 @@ Welcome to visit *[le Blog de Léonore](https://xxiao.org)*!
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=Kotlin)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2b%2b&logoColor=00599C)
 
-[![Top Langs](https://l.shaw.gq/api/top-langs/?username=LeonoreShaw)](https://github.com/LeonoreShaw/)
+![Top Langs](https://l.xmshaw.eu.org/api/top-langs/?username=LeonoreShaw)
 
 
 
@@ -36,7 +36,7 @@ Welcome to visit *[le Blog de Léonore](https://xxiao.org)*!
 
 ### Recently played one: 
 
-[![spotify Recently played one](https://s.shaw.gq/api?theme=dark&rainbow=true&scan=ture&spin=ture)](https://open.spotify.com/user/31ob7ggmzhfnuasctxu7kmewalqi)
+![spotify Recently played one](https://s.xmshaw.eu.org/api?theme=dark&rainbow=true&scan=ture&spin=ture)
 
 ### Recent playlist:
 
