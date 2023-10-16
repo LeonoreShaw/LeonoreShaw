@@ -15,8 +15,7 @@ Welcome to visit *[le Blog de Léonore](https://xxiao.org)*!
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=Kotlin)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2b%2b&logoColor=00599C)
 
-![Top Langs](https://l.xmshaw.eu.org/api/top-langs/?username=LeonoreShaw)
-
+![Top Languages](https://l.xmshaw.eu.org/api/top-langs/?username=LeonoreShaw)
 
 
 ## Contact me ...
