@@ -3,17 +3,19 @@
 
 Welcome to visit *[le Blog de Léonore](https://xxiao.org)*!
 
-- 🌱 Learning programming
+- 🌱 Learning everything
 - 📫 leonoreshaw@gmail.com
 
 
 
 ## Languages Interested in
 
+
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-000?style=flat&logo=Go)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=Kotlin)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2b%2b&logoColor=00599C)
+
 
 ![Top Languages](https://l.xmshaw.eu.org/api/top-langs/?username=LeonoreShaw)
 
