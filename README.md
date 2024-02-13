@@ -17,7 +17,7 @@ Welcome to visit *[le Blog de Léonore](https://xxiao.org)*!
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2b%2b&logoColor=00599C)
 
 
-![Top Languages](https://l.xmshaw.eu.org/api/top-langs/?username=LeonoreShaw)
+![Top Languages](https://githubreadmestats.xxiao.org/api/top-langs/?username=LeonoreShaw)
 
 
 ## Contact me ...
@@ -37,7 +37,7 @@ Welcome to visit *[le Blog de Léonore](https://xxiao.org)*!
 
 ### Recently played one: 
 
-![spotify Recently played one](https://s.xmshaw.eu.org/api?theme=dark&rainbow=true&scan=ture&spin=ture)
+![spotify Recently played one](https://spotifyreadme.xxiao.org/api?theme=dark&rainbow=true&scan=ture&spin=ture)
 
 ### Recent playlist:
 
