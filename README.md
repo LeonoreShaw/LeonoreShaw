@@ -37,7 +37,7 @@ Welcome to visit *[le Blog de Léonore](https://xxiao.org)*!
 
 ### Recently played one: 
 
-![spotify Recently played one](https://spotifyreadme.xxiao.org/api?theme=dark&rainbow=true&scan=ture&spin=ture)
+![spotify Recently played one](https://spotifyreadme.xxiao.org/api?theme=dark&rainbow=true&spin=ture)
 
 ### Recent playlist:
 
